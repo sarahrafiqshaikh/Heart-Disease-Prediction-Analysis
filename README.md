@@ -1,12 +1,6 @@
 # Heart-Disease-Prediction-Analysis
 This project analyzes a heart disease dataset to predict the presence of heart disease in patients using machine learning techniques.
 
-Here's a README based on the provided notebook content:
-
-# Heart Disease Prediction Analysis
-
-This project analyzes a heart disease dataset to predict the presence of heart disease in patients using machine learning techniques.
-
 ## Dataset
 
 The dataset is from the UCI Machine Learning Repository and contains various features related to heart health. It can be downloaded from Kaggle: [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
